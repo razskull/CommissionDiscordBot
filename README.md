@@ -10,6 +10,7 @@ The only command for this bot is 'commission'. This command is followed by a spe
 + jewel - Jewel Inspector
 + shift - Shift Lead
 + manager - Manager
+
 Each role gets a different percentage of commission. 
 
 ## Example message history
